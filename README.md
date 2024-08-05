@@ -1,1 +1,1 @@
-# seki001.githuub.io
+# seki001.github.io
